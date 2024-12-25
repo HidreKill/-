@@ -1,0 +1,48 @@
+.s{
+    color: #01b101;
+}
+.r{
+    color: yellow; text-align: center;
+}
+.e{
+    background-color: rgb(2, 2, 35);
+}
+.d{
+    color: white; text-align: center;
+}
+.a{
+    border: 3px solid yellow;
+}
+.o{
+    border: 1px solid yellow; 
+    text-align: center; 
+    width: 1000px; 
+    color: white; 
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td { 
+
+    border: 1px solid yellow;
+    text-align: center;
+}
+td{
+    background-color: rgb(29, 29, 73);
+}
+.f{
+    width: 90%;
+    text-align: center;
+}
+.p{
+    color: white;
+    text-align: center;
+}
+.i{
+    text-align: center; background-color: yellow; width: 20%; border-radius: 20px;
+}
+.m{
+    text-align: center;
+}
